@@ -1,7 +1,6 @@
 # sign_in_auth_using_bloc
 
-A new Flutter project.
-
+Experience seamless email validation in Flutter with my SignIn page powered by BLoC. Ensure data accuracy and user-friendly authentication. Join the community and explore the power of BLoC architecture for robust app development. #Flutter #BLoC #Authenticatio
 ## Getting Started
 
 This project is a starting point for a Flutter application.
